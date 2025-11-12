@@ -1,0 +1,72 @@
+{
+  "teacher": [
+    {
+      "title": "Instructional Designer",
+      "description": "Create engaging digital learning content for schools and training organizations.",
+      "transferableSkills": ["Curriculum Design", "Communication", "Creativity"],
+      "salaryRange": "KES 120,000 - 250,000",
+      "growthPotential": "35%",
+      "location": "Remote / Nairobi"
+    },
+    {
+      "title": "Corporate Trainer",
+      "description": "Design and deliver training programs to help professionals build soft and technical skills.",
+      "transferableSkills": ["Public Speaking", "Coaching", "Organization"],
+      "salaryRange": "KES 150,000 - 300,000",
+      "growthPotential": "40%",
+      "location": "Hybrid (Kenya)"
+    }
+  ],
+
+  "accountant": [
+    {
+      "title": "Finance Transformation Analyst",
+      "description": "Support organizations digitizing their accounting systems and improving reporting accuracy.",
+      "transferableSkills": ["Data Analysis", "Attention to Detail", "Process Improvement"],
+      "salaryRange": "KES 130,000 - 280,000",
+      "growthPotential": "30%",
+      "location": "Nairobi / Remote"
+    },
+    {
+      "title": "ESG Reporting Specialist",
+      "description": "Assist companies in sustainability and environmental reporting.",
+      "transferableSkills": ["Financial Analysis", "Compliance", "Research"],
+      "salaryRange": "KES 150,000 - 300,000",
+      "growthPotential": "32%",
+      "location": "Hybrid"
+    }
+  ],
+
+  "nurse": [
+    {
+      "title": "Digital Health Specialist",
+      "description": "Help hospitals adopt and manage digital patient record systems.",
+      "transferableSkills": ["Patient Care", "Communication", "Process Improvement"],
+      "salaryRange": "KES 100,000 - 220,000",
+      "growthPotential": "28%",
+      "location": "Nairobi / Remote"
+    }
+  ],
+
+  "customer-service": [
+    {
+      "title": "Customer Success Manager",
+      "description": "Help clients of tech companies get the best value from their products.",
+      "transferableSkills": ["Communication", "Empathy", "Problem Solving"],
+      "salaryRange": "KES 100,000 - 200,000",
+      "growthPotential": "25%",
+      "location": "Remote"
+    }
+  ],
+
+  "it-support": [
+    {
+      "title": "Cybersecurity Analyst",
+      "description": "Protect organizations from security breaches and data loss.",
+      "transferableSkills": ["Technical Troubleshooting", "Attention to Detail", "Documentation"],
+      "salaryRange": "KES 150,000 - 300,000",
+      "growthPotential": "45%",
+      "location": "Nairobi / Remote"
+    }
+  ]
+}
